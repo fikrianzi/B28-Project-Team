@@ -7,3 +7,6 @@ Repository ini merupakan hasil pembuatan website menggunakan HTML &amp; CSS -  T
 3. Fikrianzi Nindyo Kusumo
 4. Fikri Ramadhan
 5. Gina Fitriyani
+
+Preview:
+https://fikrianzi.github.io/B28-Project-Team/
